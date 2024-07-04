@@ -3,8 +3,8 @@ home: true
 icon: home
 title: 主页
 heroImage: /logo.svg
-heroText: 廊中别苑
-tagline: 用更低的能量去处理更多的数据
+heroText: 梦秋年
+tagline: 早日拿到ssp!
 actions:
   - text: 博客主页 🏠
     link: /
