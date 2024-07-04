@@ -18,7 +18,7 @@ $ git clone https://github.com/pedrogao/qemu-linux
 $ cd qemu-linux && docker build . -t qemu-linux
 $ docker run -it qemu-linux /bin/bash
 ```
-进入容器后，运行脚本启动 qemu：
+进入容器后,运行脚本启动qemu：
 ```shell
 # ./run.sh
 ```
