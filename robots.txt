@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://pedrogao.github.io/sitemap.xml
+Sitemap: https://mqn-80.github.io/sitemap.xml
