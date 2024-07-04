@@ -1,0 +1,23 @@
+{
+  "name": "pedrogao.site",
+  "version": "2.0.0",
+  "description": "pedrogao's personal website",
+  "license": "MIT",
+  "scripts": {
+    "docs:build": "vuepress build docs",
+    "docs:clean-dev": "vuepress dev docs --clean-cache",
+    "docs:dev": "vuepress dev docs"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@vuepress/client": "2.0.0-beta.67",
+    "@vuepress/plugin-register-components": "2.0.0-beta.67",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "vue": "^3.3.4",
+    "vuepress": "2.0.0-beta.67",
+    "vuepress-plugin-comment2": "2.0.0-beta.237",
+    "vuepress-plugin-search-pro": "2.0.0-beta.237",
+    "vuepress-theme-hope": "2.0.0-beta.237"
+  }
+}
