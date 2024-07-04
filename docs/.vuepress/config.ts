@@ -6,7 +6,7 @@ import path from "path";
 
 export default defineUserConfig({
   lang: "zh-CN",
-  title: "廊中别苑",
+  title: "梦秋年",
   description:
     "我们不是在这里开发一些实用的东西，我们纯粹是为了学习而选择挑战。",
   base: "/",

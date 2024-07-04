@@ -78,6 +78,13 @@ export default sidebar([
         prefix: "ai/",
         children: ["lsm-tree"],
       },
+      {
+        text: "optimization",
+        icon: "note",
+        collapsible: true,
+        prefix: "optimization/",
+        children: ["buffer","outpoint"],
+      }
     ],
   },
 ]);

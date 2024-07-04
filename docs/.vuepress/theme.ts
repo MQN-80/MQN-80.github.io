@@ -3,18 +3,18 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://pedrogao.github.io/",
+  hostname: "https://mqn-80.github.io/",
 
   author: {
-    name: "pedrogao",
-    url: "https://github.com/pedrogao/",
+    name: "MQN-80",
+    url: "https://github.com/MQN-80",
   },
 
   iconAssets: "//at.alicdn.com/t/font_2410206_a0xb9hku9iu.css",
 
   logo: "/photo.jpg",
 
-  repo: "https://github.com/pedrogao/pedrogao.github.io",
+  repo: "https://github.com/MQN-80/MQN-80.github.io",
 
   // docsDir: "demo/src",
 
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "当开始算运气的时候，就不太可能被运气照顾。",
+  footer: "keep running",
 
   displayFooter: true,
 
@@ -34,7 +34,7 @@ export default hopeTheme({
     description: "普普通通打工人，平平凡凡小码农",
     // intro: "/intro.html",
     medias: {
-      GitHub: "https://github.com/pedrogao/",
+      GitHub: "https://github.com/MQN-80",
     },
   },
 
