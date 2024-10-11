@@ -1,6 +1,6 @@
 ---
 icon: edit
-title: 谈谈在线表格协同方案
+title: 手动实现反向传播算法
 date: 2024-10-10
 tag:
   - sheet

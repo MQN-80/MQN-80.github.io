@@ -60,7 +60,7 @@ export default navbar([
       {
         text: "ai",
         prefix: "ai/",
-        children: ["lsm-tree"],
+        children: ["lsm-tree","neural"],
       },
     ],
   },
