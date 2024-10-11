@@ -76,7 +76,7 @@ export default sidebar([
         icon: "note",
         collapsible: true,
         prefix: "ai/",
-        children: ["lsm-tree"],
+        children: ["lsm-tree","neural"],
       },
       {
         text: "optimization",
