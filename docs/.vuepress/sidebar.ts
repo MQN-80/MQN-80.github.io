@@ -27,7 +27,7 @@ export default sidebar([
         icon: "note",
         collapsible: true,
         prefix: "network/",
-        children: ["tcp-impl"],
+        children: ["tcp-impl","protobuf"],
       },
       {
         text: "os",

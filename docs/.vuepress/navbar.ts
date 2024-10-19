@@ -23,7 +23,7 @@ export default navbar([
       {
         text: "network",
         prefix: "network/",
-        children: ["tcp-impl","talk"],
+        children: ["tcp-impl","talk","protobuf"],
       },
       {
         text: "os",
