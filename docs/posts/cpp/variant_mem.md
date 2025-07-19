@@ -1,6 +1,6 @@
 ---
 icon: edit
-title: CppCon2024: Designing a Slimmer Vector of Variants
+title: CppCon2024:Designing a Slimmer Vector of Variants
 date: 2024-10-10
 tag:
   - memory variant
