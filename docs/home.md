@@ -10,7 +10,7 @@ actions:
     link: /
 
 copyright: false
-footer: MIT Licensed | Copyright © 2022-present pedrogao
+footer: MIT Licensed | Copyright © 2022-present MQN-80
 ---
 
 过去二十年时间，敏捷宣言（Agile Manifesto）和精益创业（Lean startup）对软件社区最大的负面影响就是，一大堆外行或者并没有深刻理解软件工程的从业者，  

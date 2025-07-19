@@ -8,6 +8,11 @@ export default navbar([
     prefix: "/posts/",
     children: [
       {
+        text: "cpp",
+        prefix: "cpp/",
+        children: ["variant_mem"],
+      },
+      {
         text: "network",
         prefix: "network/",
         children: ["tcp-impl","talk","protobuf"],
@@ -27,7 +32,7 @@ export default navbar([
       {
         text: "ai",
         prefix: "ai/",
-        children: ["lsm-tree","neural","gmm"],
+        children: ["neural","gmm"],
       },
     ],
   },

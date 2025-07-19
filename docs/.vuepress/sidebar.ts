@@ -8,6 +8,14 @@ export default sidebar([
     prefix: "/posts/",
     children: [
       {
+        text: "cpp",
+        icon: "note",
+        collapsible: true,
+        prefix: "cpp/",
+        children: ["variant_mem"],
+
+      },
+      {
         text: "network",
         icon: "note",
         collapsible: true,
@@ -33,7 +41,7 @@ export default sidebar([
         icon: "note",
         collapsible: true,
         prefix: "ai/",
-        children: ["lsm-tree","neural","gmm"],
+        children: ["neural","gmm"],
       },
       {
         text: "optimization",
