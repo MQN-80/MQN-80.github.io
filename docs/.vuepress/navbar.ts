@@ -10,7 +10,7 @@ export default navbar([
       {
         text: "cpp",
         prefix: "cpp/",
-        children: ["variant_mem","Nanoseconds_Matter"],
+        children: ["variant_mem","Nanoseconds_Matter","simd_avx"],
       },
       {
         text: "network",

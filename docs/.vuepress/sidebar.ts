@@ -12,7 +12,7 @@ export default sidebar([
         icon: "note",
         collapsible: true,
         prefix: "cpp/",
-        children: ["variant_mem","Nanoseconds_Matter"],
+        children: ["variant_mem","Nanoseconds_Matter","simd_avx"],
 
       },
       {
